@@ -1,0 +1,46 @@
+<empleado>
+
+<detalles>
+<idEmpleado>1</idEmpleado>
+<strNombre>Esteban</strNombre>
+<NumDocumento>1000746933</NumDocumento>
+<strDireccion>93a #45-44</strDireccion>
+<strTelefono>3425676</strTelefono>
+<strEmail>esteban988@gmal.com</strEmail>
+<dtmIngreso>28/10/2005</dtmIngreso>
+</detalles>
+
+
+<detalles>
+<idEmpleado>2</idEmpleado>
+<strNombre>Camila</strNombre>
+<NumDocumento>100345335</NumDocumento>
+<strDireccion>93a #65-12</strDireccion>
+<strTelefono>50254666</strTelefono>
+<strEmail>cami0325@gmail.com</strEmail>
+<dtmIngreso>14/07/2006</dtmIngreso>
+</detalles>
+
+
+<detalles>
+<idEmpleado>3</idEmpleado>
+<strNombre>Alejo</strNombre>
+<NumDocumento>12555264</NumDocumento>
+<strDireccion>Cll 70-33b</strDireccion>
+<strTelefono>23034433</strTelefono>
+<strEmail>alejo2904@gmail.com</strEmail>
+<dtmIngreso>23/01/2011</dtmIngreso>
+</detalles>
+
+
+<detalles>
+<idEmpleado>4</idEmpleado>
+<strNombre>Steven</strNombre>
+<NumDocumento>47655330</NumDocumento>
+<strDireccion>Cr33b #54-22</strDireccion>
+<strTelefono>3213455</strTelefono>
+<strEmail>steven77@gmail.com</strEmail>
+<dtmIngreso>10/03/2009</dtmIngreso>
+</detalles>
+
+</empleado>
