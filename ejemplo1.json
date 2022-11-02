@@ -1,12 +1,37 @@
+[
+    {
+          "Nombre": "Esteban",
+      "Apellido": "Espinosa",
+        "Carrera": "Tecnologo en software",
+        "Semestre": 4,
+      "Edad": 21
+    },
 {
-  {
-    "Nombre": "Esteban",
-    "Apellido": "Espinosa",
-    "Edad": 23
-  }
-  {
     "Nombre": "Steven",
     "Apellido": "Salazar",
+    "Carrera": "Tecnologo en software",
+    "Semestre": 4,
+    "Edad": 21
+},
+{
+    "Nombre": "Camila",
+    "Apellido": "Torres",
+    "Carrera": "Comercio exterior",
+    "Semestre": 4,
+    "Edad": 20
+},
+    {
+    "Nombre": "Alejandro",
+    "Apellido": "Espinosa",
+    "Carrera": "Bachiller",
+    "Semestre": 0,
+    "Edad": 16
+},
+    {
+    "Nombre": "luigui",
+    "Apellido": "Bros",
+    "Carrera": "Tecnologo en mecatronica",
+    "Semestre": 6,
     "Edad": 23
-  }
 }
+]
